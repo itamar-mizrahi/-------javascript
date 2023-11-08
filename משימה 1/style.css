@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+    width: 1000px;
+    justify-content: space-around;
+    align-items: flex-start;
+       
+}
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    width: 1000px;
+    justify-content: space-around;
+    align-items: flex-start;
+       
+}
+
