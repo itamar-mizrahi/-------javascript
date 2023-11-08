@@ -7,4 +7,6 @@ function hourDifference(dt1,dt2){
 
 
 }
+
 console.log(hourDifference(date1, date2)); //change
+
